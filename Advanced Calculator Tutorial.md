@@ -1,6 +1,5 @@
 # Advanced Calculator
 
-I strongly reccomend you got through the tutorial for the [Simple Calculator](https://github.com/neilbalch/Python-Tutorial-Calculator/blob/master/Simple%20Calculator%20Tutorial.md) first, before you look at this, as it covers important important details of python such as whitespace and strongly typed variables.
 
 ## Goals
 
